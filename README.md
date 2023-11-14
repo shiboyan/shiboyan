@@ -1,4 +1,4 @@
-- # 👋  Hi, I’m @shiboyan, a Senior devops with more than 10 years experience， Nice to meet you!  :smile:
+- # 👋  Hi, I’m @shiboyan, a Senior devops with more than 10 years experience, Nice to meet you!  :smile:
 - :cat:  Proficient in aws, azure, terraform,custodian, CAF landing zone, K8s etc.
 - :sun_with_face:    AZURE Certified Solution Architect – Expert
 - :sun_with_face: AWS Certified Solution Architect – Professional
